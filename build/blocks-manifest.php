@@ -6,7 +6,7 @@ return array(
 		'apiVersion' => 3,
 		'name' => 'myblocks/myfooter',
 		'version' => '0.1.0',
-		'title' => 'My COol Footer',
+		'title' => 'My Cool Footer',
 		'category' => 'widgets',
 		'icon' => 'smiley',
 		'description' => 'Example block scaffolded with Create Block tool.',
