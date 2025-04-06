@@ -4,9 +4,9 @@ return array(
 	'myfooter' => array(
 		'$schema' => 'https://schemas.wp.org/trunk/block.json',
 		'apiVersion' => 3,
-		'name' => 'myblocks/myheader',
+		'name' => 'myblocks/myfooter',
 		'version' => '0.1.0',
-		'title' => 'Myheader',
+		'title' => 'My COol Footer',
 		'category' => 'widgets',
 		'icon' => 'smiley',
 		'description' => 'Example block scaffolded with Create Block tool.',
@@ -24,28 +24,6 @@ return array(
 		'viewScript' => 'file:./view.js'
 	),
 	'myheader' => array(
-		'$schema' => 'https://schemas.wp.org/trunk/block.json',
-		'apiVersion' => 3,
-		'name' => 'myblocks/myheader',
-		'version' => '0.1.0',
-		'title' => 'Myheader',
-		'category' => 'widgets',
-		'icon' => 'smiley',
-		'description' => 'Example block scaffolded with Create Block tool.',
-		'example' => array(
-			
-		),
-		'supports' => array(
-			'html' => false
-		),
-		'textdomain' => 'myheader',
-		'editorScript' => 'file:./index.js',
-		'editorStyle' => 'file:./index.css',
-		'style' => 'file:./style-index.css',
-		'render' => 'file:./render.php',
-		'viewScript' => 'file:./view.js'
-	),
-	'myheader copy' => array(
 		'$schema' => 'https://schemas.wp.org/trunk/block.json',
 		'apiVersion' => 3,
 		'name' => 'myblocks/myheader',

@@ -1,9 +1,9 @@
 {
 	"$schema": "https://schemas.wp.org/trunk/block.json",
 	"apiVersion": 3,
-	"name": "myblocks/myheader",
+	"name": "myblocks/myfooter",
 	"version": "0.1.0",
-	"title": "Myheader",
+	"title": "My COol Footer",
 	"category": "widgets",
 	"icon": "smiley",
 	"description": "Example block scaffolded with Create Block tool.",

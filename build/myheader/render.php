@@ -1,8 +1,3 @@
-<?php
-/**
- * @see https://github.com/WordPress/gutenberg/blob/trunk/docs/reference-guides/block-api/block-metadata.md#render
- */
-?>
-<p <?php echo get_block_wrapper_attributes(); ?>>
-	<?php esc_html_e( 'Myheader – hello from a dynamic block!', 'myheader' ); ?>
-</p>
+<header class="site-header">
+	<h1>Wellcome to Our Header</h1>
+</header>
